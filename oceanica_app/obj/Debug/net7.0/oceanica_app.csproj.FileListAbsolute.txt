@@ -1,53 +1,53 @@
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.csproj.AssemblyReference.cache
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\spa.proxy.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.AssemblyInfoInputs.cache
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.AssemblyInfo.cs
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.csproj.CoreCompileInputs.cache
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.RazorAssemblyInfo.cache
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.RazorAssemblyInfo.cs
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\spa.proxy.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\appsettings.Development.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\appsettings.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\oceanica_app.exe
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\oceanica_app.deps.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\oceanica_app.runtimeconfig.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\oceanica_app.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\oceanica_app.pdb
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\AutoMapper.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Castle.Core.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Humanizer.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.AspNetCore.SpaProxy.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Mono.TextTemplating.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\MySqlConnector.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Newtonsoft.Json.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\bin\Debug\net7.0\System.CodeDom.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.oceanica_app.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.build.oceanica_app.props
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.oceanica_app.props
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.oceanica_app.props
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets.pack.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets.build.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\staticwebassets.development.json
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\scopedcss\bundle\oceanica_app.styles.css
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.csproj.CopyComplete
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\refint\oceanica_app.dll
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.pdb
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\oceanica_app.genruntimeconfig.cache
-C:\Users\Eduardo Sabino\source\repos\Oceanica\oceanica_app\obj\Debug\net7.0\ref\oceanica_app.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\spa.proxy.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\appsettings.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\oceanica_app.exe
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\oceanica_app.deps.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\oceanica_app.runtimeconfig.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\oceanica_app.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\oceanica_app.pdb
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Humanizer.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.csproj.AssemblyReference.cache
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\spa.proxy.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.AssemblyInfoInputs.cache
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.AssemblyInfo.cs
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.csproj.CoreCompileInputs.cache
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.RazorAssemblyInfo.cache
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.RazorAssemblyInfo.cs
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.oceanica_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.build.oceanica_app.props
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.oceanica_app.props
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.oceanica_app.props
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\scopedcss\bundle\oceanica_app.styles.css
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.csproj.CopyComplete
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\refint\oceanica_app.dll
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.pdb
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\oceanica_app.genruntimeconfig.cache
+C:\Users\07-05-007\Documents\Project\OceanicaApp\oceanica_app\obj\Debug\net7.0\ref\oceanica_app.dll

@@ -1835,27 +1835,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eduardo Sabino\\.nuget\\packages\\": {}
+    "C:\\Users\\07-05-007\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo Sabino\\source\\repos\\Oceanica\\oceanica_app\\oceanica_app.csproj",
+      "projectUniqueName": "C:\\Users\\07-05-007\\Documents\\Project\\OceanicaApp\\oceanica_app\\oceanica_app.csproj",
       "projectName": "oceanica_app",
-      "projectPath": "C:\\Users\\Eduardo Sabino\\source\\repos\\Oceanica\\oceanica_app\\oceanica_app.csproj",
-      "packagesPath": "C:\\Users\\Eduardo Sabino\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo Sabino\\source\\repos\\Oceanica\\oceanica_app\\obj\\",
+      "projectPath": "C:\\Users\\07-05-007\\Documents\\Project\\OceanicaApp\\oceanica_app\\oceanica_app.csproj",
+      "packagesPath": "C:\\Users\\07-05-007\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\07-05-007\\Documents\\Project\\OceanicaApp\\oceanica_app\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Eduardo Sabino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\07-05-007\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "net7.0": {
@@ -1937,7 +1941,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

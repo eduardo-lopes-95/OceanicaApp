@@ -2,7 +2,7 @@
 "SpaProxyServer": {
 "ServerUrl": "https://localhost:44488",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Eduardo Sabino\\source\\repos\\Oceanica\\oceanica_app\\ClientApp\\",
+"WorkingDirectory": "C:\\Users\\07-05-007\\Documents\\Project\\OceanicaApp\\oceanica_app\\ClientApp\\",
 "MaxTimeoutInSeconds": "120"
 }
 }
