@@ -18,7 +18,7 @@ public class DepartamentController : ControllerBase
         Mapper = mapper;
     }
 
-    [HttpGet]
+    [HttpGet("GetDepartaments")]
     public IActionResult GetDepartaments([FromQuery] int page = 0, [FromQuery] int qtde = 10)
     {
         var departaments = DepartamentRepository.GetAll(page, qtde);
@@ -27,7 +27,7 @@ public class DepartamentController : ControllerBase
         return Ok(Mapper.Map<ICollection<ReadDepartamentDto>>(departaments));
     }
 
-    [HttpGet("id")]
+    [HttpGet("GetDepartament")]
     public IActionResult GetDepartamentsById(int id)
     {
         var departament = DepartamentRepository.GetById(id);
@@ -36,7 +36,7 @@ public class DepartamentController : ControllerBase
         return Ok(Mapper.Map<ReadDepartamentDto>(departament));
     }
 
-    [HttpPost]
+    [HttpPost("AddDepartament")]
     public IActionResult Post([FromBody] CreateDepartamentDto dto)
     {
         var departament = Mapper.Map<Departament>(dto);
@@ -44,7 +44,7 @@ public class DepartamentController : ControllerBase
         return CreatedAtAction(nameof(GetDepartamentsById), new { departamentInserted.Id }, dto);
     }
 
-    [HttpPut]
+    [HttpPut("UpdateDepartament")]
     public IActionResult Put([FromBody] UpdateDepartamentDto dto)
     {
         var departament = Mapper.Map<Departament>(dto);
@@ -52,7 +52,7 @@ public class DepartamentController : ControllerBase
         return Ok(Mapper.Map<ReadDepartamentDto>(departamentInserted));
     }
 
-    [HttpDelete]
+    [HttpDelete("DeleteDepartament")]
     public IActionResult Delete(int id)
     {
         DepartamentRepository.DeleteById(id);
