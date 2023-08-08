@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "k3YAfkOvgR8Se1gwx73cZKZMDE/9WAl38USNWZOjmBAInWJwBwtBlbBPVPWpNbZfh8aJhu8jdwLj7zPhR/RpaQ==",
+  "dgSpecHash": "Wi6J1upOlpKEspqwBneGr1M3fj0RPieVSPOo+5odZzop0yQoLVrLajN7sSCjZ4J2qrviK+B5aDDMSgYOMMopVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\07-05-007\\Documents\\Project\\OceanicaApp\\oceanica_app\\oceanica_app.csproj",
   "expectedPackageFiles": [
@@ -29,6 +29,7 @@
     "C:\\Users\\07-05-007\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
     "C:\\Users\\07-05-007\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\07-05-007\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\07-05-007\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
     "C:\\Users\\07-05-007\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\07-05-007\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512",
     "C:\\Users\\07-05-007\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",

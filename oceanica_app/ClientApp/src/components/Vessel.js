@@ -1,13 +1,13 @@
 ﻿import React, { useState, useEffect } from "react";
 import axios from 'axios';
 
-const App = () => {
+const Vessel = () => {
     const [vessels, setvessels] = useState();
 
     const [id, setid] = useState();
     const [name, setname] = useState();
     const [type, settype] = useState();
-    const [buildat, setbuildat] = useState();
+    const [buildAt, setbuildAt] = useState();
     const [departaments, setdepartaments] = useState();
 
     useEffect(() => {
@@ -26,14 +26,14 @@ const App = () => {
             await axios.post("Vessel/AddVessel", {
                 name: name,
                 type: type,
-                buildat: buildat,
+                buildat: buildAt,
             });
             alert("Vessel added");
 
             setid("");
             setname("");
             settype("");
-            setbuildat("");
+            setbuildAt("");
             setdepartaments("");
             GetVessels();
         } catch (error) {
@@ -75,9 +75,9 @@ const App = () => {
                             type="date"
                             className="form-control"
                             id="buildat"
-                            value={buildat}
+                            value={buildAt}
                             onChange={(event) => {
-                                setbuildat(event.target.value);
+                                setbuildAt(event.target.value);
                             }}
                         />
                     </div>
@@ -94,7 +94,8 @@ const App = () => {
                         <thead>
                             <tr>
                                 <th>Id</th>
-                                <th>name</th>
+                                <th>Name</th>
+                                <th>Type</th>
                                 <th>BuildAt</th>
                                 <th>Departaments</th>
                             </tr>
@@ -106,7 +107,8 @@ const App = () => {
                                         <th scope="row">{vessel.id}</th>
                                         <td>{vessel.name}</td>
                                         <td>{vessel.type}</td>
-                                        <td>{vessel.buildat}</td>
+                                        <td>{vessel.buildAt.substring(0, 10)}</td>
+                                        <td>{vessel.departaments.map(d => d.name).join(", ")}</td>
                                     </tr>
                                 </tbody>
                             );
@@ -118,4 +120,4 @@ const App = () => {
     );
 };
 
-export default App;
+export default Vessel;

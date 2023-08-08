@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from 'axios';
 
-const App = () => {
+const Departaments = () => {
     const [departaments, setdepartaments] = useState();
 
     const [id, setid] = useState();
@@ -29,7 +29,7 @@ const App = () => {
 
             setid("");
             setname("");
-            setvesselid("");
+            setvesselid("")
             GetDepartaments();
         } catch (error) {
             alert(error);
@@ -53,11 +53,11 @@ const App = () => {
                         />
                     </div>
                     <div className="form-group">
-                        <label>VesselId</label>
+                        <label>Vessel Id</label>
                         <input
                             type="text"
                             className="form-control"
-                            id="vesselid"
+                            id="vesselId"
                             value={vesselid}
                             onChange={(event) => {
                                 setvesselid(event.target.value);
@@ -78,16 +78,14 @@ const App = () => {
                             <tr>
                                 <th>Id</th>
                                 <th>Name</th>
-                                <th>VesselId</th>
                             </tr>
                         </thead>
-                        {departaments?.map(function fn(Departament) {
+                        {departaments?.map(function fn(departament) {
                             return (
                                 <tbody>
                                     <tr>
-                                        <th scope="row">{Departament.id}</th>
-                                        <td>{Departament.name}</td>
-                                        <td>{Departament.vesselid}</td>
+                                        <th scope="row">{departament.id}</th>
+                                        <td>{departament.name}</td>
                                     </tr>
                                 </tbody>
                             );
@@ -99,4 +97,4 @@ const App = () => {
     );
 };
 
-export default App;
+export default Departaments;
